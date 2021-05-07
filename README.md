@@ -3,5 +3,5 @@
 Ola! bem vindo ao meu livro de reiceitas :cake: 
 
 - Strogonoff de frango 
-- Sorvete
+- Coxinha
 
